@@ -1,43 +1,39 @@
-# Hey, I'm Icaro de Jesus 👋
+# Icaro de Jesus
 
-### Independent builder, creative technologist and curious problem-solver.
+### Independent software builder focused on creative technology and intelligent automation.
 
-I’m a developer from Brazil who enjoys taking ideas apart, understanding how systems work, and building practical tools from scratch. I’m especially interested in the space where technology, creativity and storytelling meet.
+I am a developer from Brazil interested in building products that connect software, audiovisual production and practical AI. I work independently, learn through execution and turn complex ideas into usable systems.
 
-I learn by experimenting: testing a concept, finding the bottleneck, and turning the result into something useful.
+My approach is simple: understand the problem deeply, design the right workflow and deliver something that works.
 
-## 🧠 What I'm interested in
+## 🎯 Areas of focus
 
-- 🤖 Artificial intelligence and creative tools
-- 🎙️ Voice, audio and audiovisual production
-- 🎞️ Video editing, visual storytelling and documentaries
-- ⚙️ Automation, developer tools and efficient workflows
-- 🧪 Local-first experiments and learning by building
+- Artificial intelligence applied to creative production
+- Voice, audio and audiovisual systems
+- Video editing and visual storytelling
+- Automation and developer tooling
+- Product design, experimentation and continuous improvement
 
-## 🛠️ Personal projects
+## 🚀 Selected work
 
-### `ARKON`
+### ARKON
 
-One of my current individual projects: an experimental studio for exploring AI-assisted voice, video production and creative automation.
+ARKON is an individual project and an ongoing exploration into AI-assisted voice, video production and creative automation. It is where I test ideas, study new systems and build tools for a more efficient production workflow.
 
-It is a personal work in progress — a place to test ideas, learn new systems and build the tools I wish existed.
+[View the ARKON project page](https://moneyzenth-lang.github.io/arkon-public/)
 
-## 🧰 Technologies I use
+## 🧰 Technology
 
 `Python` · `JavaScript` · `TypeScript` · `HTML/CSS` · `FFmpeg` · `Git` · `GitHub Pages` · `AI workflows` · `Automation`
 
-## 🔍 How I think
+## 📐 Principles
 
-I’m interested in the parts that usually stay hidden: the pipeline behind the interface, the reason a limitation exists, and the small design choices that make a system feel powerful.
+I value clarity over unnecessary complexity, useful products over empty demos, and consistent progress over premature perfection.
 
-I value curiosity, independence and shipping real experiments over pretending to have everything figured out.
-
-## 🔗 Current project
-
-🌐 [ARKON public page](https://moneyzenth-lang.github.io/arkon-public/)
+I am interested in the details behind the interface: the architecture, the pipeline, the constraints and the decisions that make a product reliable.
 
 ---
 
 <p align="center">
-  <i>Still learning. Still building. Still breaking things to understand them.</i> 🧪
+  <i>Building useful systems for ambitious ideas.</i> ⚡
 </p>
