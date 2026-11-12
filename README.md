@@ -28,9 +28,17 @@ ARKON is an individual project and an ongoing exploration into AI-assisted voice
 
 ## 📐 Principles
 
-I value clarity over unnecessary complexity, useful products over empty demos, and consistent progress over premature perfection.
+### Build what matters.
 
-I am interested in the details behind the interface: the architecture, the pipeline, the constraints and the decisions that make a product reliable.
+I do not build to fill a portfolio. I build to solve real problems, remove friction and turn ambitious ideas into working systems.
+
+### Let execution speak.
+
+A strong concept is only the beginning. The standard is clarity, reliability and the discipline to finish what was started.
+
+### Stay close to the work.
+
+Understand the architecture. Question the defaults. Keep improving until the result speaks for itself.
 
 ---
 
