@@ -1,41 +1,43 @@
 # Hey, I'm Icaro de Jesus 👋
 
-### Creative technologist building tools where code meets storytelling.
+### Independent builder, creative technologist and curious problem-solver.
 
-I’m currently building **ARKON** — an AI-powered audiovisual studio for turning ideas into narrated, edited and publish-ready videos. 🎬
+I’m a developer from Brazil who enjoys taking ideas apart, understanding how systems work, and building practical tools from scratch. I’m especially interested in the space where technology, creativity and storytelling meet.
 
-My focus is the intersection of:
+I learn by experimenting: testing a concept, finding the bottleneck, and turning the result into something useful.
 
-- 🤖 AI-assisted creative workflows
-- 🎙️ Voice, narration and dubbing systems
-- 🎞️ Automated video editing and timeline generation
-- 🧠 Storytelling, research and documentary formats
-- ⚙️ Developer tools, pipelines and experiments
+## 🧠 What I'm interested in
 
-## 🛠️ What I'm building
+- 🤖 Artificial intelligence and creative tools
+- 🎙️ Voice, audio and audiovisual production
+- 🎞️ Video editing, visual storytelling and documentaries
+- ⚙️ Automation, developer tools and efficient workflows
+- 🧪 Local-first experiments and learning by building
+
+## 🛠️ Personal projects
 
 ### `ARKON`
 
-A production system designed to transform a creative idea into a complete audiovisual project — from script planning and voice generation to scene composition, subtitles and multi-format rendering.
+One of my current individual projects: an experimental studio for exploring AI-assisted voice, video production and creative automation.
 
-> Idea → Script → Voice → Timeline → Render → Publish
+It is a personal work in progress — a place to test ideas, learn new systems and build the tools I wish existed.
 
-## 🧰 Toolbox
+## 🧰 Technologies I use
 
 `Python` · `JavaScript` · `TypeScript` · `HTML/CSS` · `FFmpeg` · `Git` · `GitHub Pages` · `AI workflows` · `Automation`
 
-## 🧪 Current mindset
+## 🔍 How I think
 
-I like understanding systems from the inside, finding the bottleneck, and building the missing tool instead of accepting the limitation.
+I’m interested in the parts that usually stay hidden: the pipeline behind the interface, the reason a limitation exists, and the small design choices that make a system feel powerful.
 
-Currently experimenting with local-first AI, creative automation and cinematic documentary pipelines.
+I value curiosity, independence and shipping real experiments over pretending to have everything figured out.
 
-## 🔗 Find ARKON
+## 🔗 Current project
 
-🌐 [arkon-public](https://moneyzenth-lang.github.io/arkon-public/)
+🌐 [ARKON public page](https://moneyzenth-lang.github.io/arkon-public/)
 
 ---
 
 <p align="center">
-  <i>Building strange tools for ambitious ideas.</i> 🧪
+  <i>Still learning. Still building. Still breaking things to understand them.</i> 🧪
 </p>
